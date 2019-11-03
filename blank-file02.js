@@ -1,4 +1,3 @@
-<script>
 document.getElementsByName('downloadfile').style = `display:none;`;
 var a = document.getElementById('downloadfile');
 
@@ -132,4 +131,3 @@ a.innerHTML =`<br/>SUCSSES <i class="fa fa-check-circle"></i>
 <br/>file has been downloaded`;
 
 }
-</script>
